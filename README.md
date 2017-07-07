@@ -14,3 +14,7 @@ current features :
   - fetch emails content and attachments
   - view email content (plain text)
   - saving attachments to disk
+
+Note:
+this tool requires account access from using IMAP protocol to be enabled,
+it requires also the "Access for less secure apps" feature to be turned on.
